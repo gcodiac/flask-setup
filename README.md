@@ -30,8 +30,7 @@ This repository contains the setup for a Flask application. The project includes
 
 ### Prerequisites
 
-- Python 3.6 or higher
-- Git
+- Pyenv
 
 ### Installation
 
@@ -133,11 +132,9 @@ If you prefer to set up the project manually, follow these steps:
 10. **Create `.flaskenv` file to store environment variables:**
 
     ```sh
-    cat <<EOL > .flaskenv
     FLASK_ENV=development
     FLASK_APP=main.py
     FLASK_DEBUG=1
-    EOL
     ```
 
 11. **Generate `requirements.txt`:**
