@@ -38,9 +38,16 @@ This repository contains the setup for a Flask application. The project includes
 1. **Run the setup script:**
 
    ```sh
+   # For scalable project: download the setup_flask_app.sh file and run: 
    chmod +x setup_flask_project.sh
    ./setup_flask_project.sh
+
+   # For minimal project setup download and run: 
+   chmod +x setup_minimal_flask.sh
+   ./setup_flask_project.sh
    ```
+
+<hr />
 
 ### Manual Setup
 
