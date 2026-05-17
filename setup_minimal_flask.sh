@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script sets up a minimal Flask application with necessary configurations.
+# This script sets up a minimal Flask application with necessary configurations. 
 
 # Create project directory
 mkdir minimal_flask_app
